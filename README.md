@@ -1,14 +1,44 @@
-<h1 align="center">Hi! 👋 I'm Lumine</h1>
+<p align="center">
+<img src="https://telegra.ph/file/16c2d382e831c94477951.jpg/images?q=tbn:ANd9GcStH_A0WKtnRtD_Bla6B71LjtP-GtYOkacYsg&usqp=CAU" alt="CHIKA BOT" width="500"/>
+
+
+</p>
+<p align="center">
+<a href="#"><img title="Shinz-ルミネ" src="https://img.shields.io/badge/Shinz-ルミネ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/Shinz-06"><img title="Author" src="https://img.shields.io/badge/Author-Shinz-red.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+<a href="https://github.com/Shinz-06"><img title="Followers" src="https://img.shields.io/github/followers/rashidsiregar28?color=blue&style=flat-square"></a>
+<a href="https://github.com/Shinz-06/network/members"><img title="Forks" src="https://img.shields.io/github/forks/riychuhuy/Riych-Bot?color=red&style=flat-square"></a>
+<a href="https://github.com/Shinz-06/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/riychuhuy/Riych-Bot?label=Watchers&color=blue&style=flat-square"></a>
+</p>
 
 <p align="center">
-  <a href="https://wa.me/6283148375193"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Noob+Coder+From+Indonesia.;Copy+paste%2C+Javascript.;Love+Money+and+Life+is+Needed." alt="Lumine (≧ ∇ ≦)">
-</p>
+  <a href="https://github.com/riychuhuy/Riych-Bot#requirements">Requirements</a> •
+  <a href="https://github.com/riychuhuy/Riych-Bot#instalasi">Installation</a> •
+  <a href="https://github.com/riychuhuy/Riych-Bot#thanks-to">Thanks to</a> •
+  <a href="https://github.com/riychuhuy/Riych-Bot#Official-Group"> Official Group Bot</a> •
+  <a href="https://github.com/riychuhuy/Riych-Bot#donate">Donate</a>
 
-<p align="center">
-  <a href="https://wa.me/6283148375193"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/computer-programming-anime-programming-language-thread-animation-gril-f6c2888a88588db1f063bcfcbc84e6cf.png" alt="Lumine"></a>
+<p align='center'>
+   <a href="https://instagram.com/shinz_06"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://wa.me/6283148375193?text=hello"><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBc_3WgZjWOtqdKZQbdkxUl5A31GZ_YC35zQ&usqp=CAU"></a>
+</P>
 </p>
+</div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Lumine887&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/Lumine887?label=Followers" style=" float:left, margin-right:10px" alt="Followers" />
-</p>
 
+---
+
+# あ Lumine-MD Bot-whatsapp
+## Information
+> Lumine-MD whatsapp using a Baileys library.
+> Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
+
+# Donate
+- [click here](wa.me/6283148375193?text=bang+mau+donasi)
+
+# Official Group
+- [Official Group](https://chat.whatsapp.com/JQt8UkAG4FjATRNRVqoFb2)
