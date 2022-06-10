@@ -15,13 +15,6 @@
 <a href="https://github.com/Shinz-06/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/riychuhuy/Riych-Bot?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/riychuhuy/Riych-Bot#requirements">Requirements</a> •
-  <a href="https://github.com/riychuhuy/Riych-Bot#instalasi">Installation</a> •
-  <a href="https://github.com/riychuhuy/Riych-Bot#thanks-to">Thanks to</a> •
-  <a href="https://github.com/riychuhuy/Riych-Bot#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/riychuhuy/Riych-Bot#donate">Donate</a>
-
 <p align='center'>
    <a href="https://instagram.com/shinz_06"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
    <a href="https://wa.me/6283148375193?text=hello"><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBc_3WgZjWOtqdKZQbdkxUl5A31GZ_YC35zQ&usqp=CAU"></a>
