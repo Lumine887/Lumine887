@@ -10,12 +10,12 @@
 <img width="230" height="230" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL6-PePr71eGYosgD6PYBQRqd6eDCUHoloWg&usqp=CAU" />
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ryxzelll&show_icons=true&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryxzelll&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ryzxel&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryzxel&show_icons=true&theme=radical" />
 </p>
 
 
-<!--![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryxzelll&layout=compact&theme=nightowl)-->
+<!--![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryzxel&layout=compact&theme=nightowl)-->
 ```go
 
 package main
