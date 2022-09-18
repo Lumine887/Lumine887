@@ -18,7 +18,12 @@
 <!--![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryxzelll&layout=compact&theme=nightowl)-->
 ```go
 
-Good bye world
+package main
+
+import "fmt"
+func main() {
+    fmt.Println("goodbye world")
+}
 
 ```
 <div align="center">
