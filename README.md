@@ -33,11 +33,10 @@ if (sad() === true){
  
 ### Github Stats 
 
-![github card](https://github-readme-stats.vercel.app/api?username=Xorizn&show_icons=true&theme=radical)
+![github card](https://github-readme-stats.vercel.app/api?username=Ryzxel&show_icons=true&theme=radical)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xorizn&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryzxel&theme=monokai)
 
 ### Repo Stats 
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Xorizn&repo=bitch-bot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Xorizn&repo=yuzzu-api&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Ryzxel&repo=Simple-Qrcode&theme=dark)
