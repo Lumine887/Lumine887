@@ -1,22 +1,43 @@
-<h2> Hi, I'm Ryzxel! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Never trust anyone <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p align="center">
+  <a href="https://github.com/Xorizn"><img src="http://readme-typing-svg.herokuapp.com?color=b82323&center=true&vCenter=true&multiline=false&lines=My+Name+Harry;I+Learn+Html+And+Javascript;I+Am+15+Years+Old;I+live+In+Indonesia;Don't+bully+me+≧▽≦" alt="Asu"></a>
+</p>
+<a href="https://r.mtdv.me/xuEfRWXsMt"><img src="https://github.com/Xorizn/Xorizn/blob/main/image/82224a74e14c9e7ac659e13b58bad1ec.jpg" /></a>
 
-[![GitHub Fckvania](https://img.shields.io/github/followers/Ryzxel?label=follow&style=social)](https://github.com/Ryzxel)
+---
 
-:page_with_curl: I'm currently learning
-<br><br>
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+```javascript
+// life motto
+if (sad() === true){
+    sad().stop();
+    beAwesome();
+}
+    console.log("Hello there 👋, I'm Ryzxel, Nice to meet you all!")
+```
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+-------
 
+### Connect with me 
+<p align="center">
+  <a href="https://instagram.com/Ryzxell"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/6283148375193"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
 
-|                                                                                                           |                                                                                                                                                                                                                                                                       |
-| --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Github stats](https://github-readme-stats.vercel.app/api?username=Ryzxel&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) |[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fckvania&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=FFFFFF&currStreakLabel=FFFFFF)](https://git.io/streak-stats) |
+  
+------
+### Spotify Music
 
-|                                                                                                                                                                                                                                                                                                                                           |                         
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Ryzxel&theme=xcode&area=true&hide_border=true) |
+<p align="center">
+  <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+
+------
+ 
+### Github Stats 
+
+![github card](https://github-readme-stats.vercel.app/api?username=Xorizn&show_icons=true&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xorizn&theme=monokai)
+
+### Repo Stats 
+
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Xorizn&repo=bitch-bot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Xorizn&repo=yuzzu-api&theme=dark)
