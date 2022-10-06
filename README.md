@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/Xorizn"><img src="http://readme-typing-svg.herokuapp.com?color=b82323&center=true&vCenter=true&multiline=false&lines=My+Name+Harry;I+Learn+Html+And+Javascript;I+Am+15+Years+Old;I+live+In+Indonesia;Don't+bully+me+≧▽≦" alt="Asu"></a>
 </p>
-<a href="https://r.mtdv.me/xuEfRWXsMt"><img src="https://github.com/Xorizn/Xorizn/blob/main/image/82224a74e14c9e7ac659e13b58bad1ec.jpg" /></a>
+<a href="https://r.mtdv.me/xuEfRWXsMt"><img src="https://rawcdn.githack.com/Lingz-ui/data-myBot/96a59ec0fe54f6ee6e3c78fda4257d3fcb1040da/IMG_20220427_102652_033.jpg" /></a>
 
 ---
 
