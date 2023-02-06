@@ -1,20 +1,7 @@
 <p align="center">
-  <a href="https://github.com/Xorizn"><img src="http://readme-typing-svg.herokuapp.com?color=b82323&center=true&vCenter=true&multiline=false&lines=My+Name+Is+Harry;I+Learn+Html+And+Javascript;I+Am+15+Years+Old;I+live+In+Indonesia;Don't+bully+me+≧▽≦" alt="Asu"></a>
+<a href="https://caliph.my.id"><img align="center" src="https://github-cardname.caliph.my.id/api?name=Ryzxell&description=Hi%2C%20i'm%20a%20Backend%20Developer%2C%20Nice%20to%20meet%20you&image=https://i0.wp.com/avatars.githubusercontent.com/Ryzxel6&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@ryzxell&github=Ryzxel6&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://ryzxel6.github.io"/></a>
 </p>
-<a href="https://r.mtdv.me/xuEfRWXsMt"><img src="https://github.com/Xorizn/Xorizn/blob/main/image/82224a74e14c9e7ac659e13b58bad1ec.jpg" /></a>
-
----
-
-```javascript
-// life motto
-if (sad() === true){
-    sad().stop();
-    beAwesome();
-}
-    console.log("Hello there 👋, I'm Ryzxel, Nice to meet you all!")
-```
-
--------
+ 
 
 ### Connect with me 
 <p align="center">
