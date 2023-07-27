@@ -1,5 +1,5 @@
-<p align="center">
-<a href="https://pin.it/7AYdu50"><img align="center" src="https://github-cardname.caliph.my.id/api?name=Ryzxell&description=Hi%2C%20i'm%20a%20Backend%20Developer%2C%20Nice%20to%20meet%20you&image=https://i0.wp.com/avatars.githubusercontent.com/Ryzxel6&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@ryzxell&github=Ryzxel6&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://ryzxel6.github.io"/></a>
+
+<a href="https://pin.it/7AYdu50"><h1 align="center"> リズセル <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>Ryzxell here!</h1>
 </p>
  
 
