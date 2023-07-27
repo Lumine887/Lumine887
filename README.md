@@ -23,3 +23,17 @@
 ![github card](https://github-readme-stats.vercel.app/api?username=Ryzxel6&show_icons=true&theme=radical)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryzxel6&theme=monokai)
+
+### My Bio
+```js
+
+var ry = `
+
+Name               : Harry
+Age                : 16
+Gender             : Male
+From               : indonesian 🇮🇩
+Currently learning : Js, html
+`
+return ry
+```
